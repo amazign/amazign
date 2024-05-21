@@ -1,7 +1,7 @@
 ## Hi 👋
 ## I'm currently using Github to host files and programs for my 2024/25 BTYS Project.
 ## I'm attempting to make an easy to use public transport app in Ireland, looking at the following areas:
-## Intuitiveness - I want the app to be appproachable and easy to learn, while meintaining functionality.
+## Intuitiveness - I want the app to be appproachable and easy to learn, while maintaining functionality.
 ## Intigration - The main goal for this app is to intigrate different types of public transport under one app.
 ## Inteligience - I want the app to be able to learn and cater to the users needs, e.g. wheelchair users and cyclists.
 ##
