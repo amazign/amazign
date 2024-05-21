@@ -5,7 +5,7 @@
 ## Intigration - The main goal for this app is to intigrate different types of public transport under one app.
 ## Inteligience - I want the app to be able to learn and cater to the users needs, e.g. wheelchair users and cyclists.
 ##
-## I look forward to presenting this project in the RDS, and if you want to chat about it don't hesitate to get in touch.
+## I look forward to presenting this project in the RDS, and if you would like to chat about it don't hesitate to get in touch.
 
 <!--
 **amazign/amazign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
